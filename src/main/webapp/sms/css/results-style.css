@@ -1,0 +1,15 @@
+.panel-heading {
+    background-color: #2a3848;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+}
+.panel-default > .panel-heading:hover {
+    background-color: #3d4c5d;
+}
+.panel-body {
+    padding: 0;
+}
+.table {
+    margin-bottom: 0;
+}
