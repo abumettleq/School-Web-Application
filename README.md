@@ -108,4 +108,4 @@ School-Web-Application
 
 ## 8. Acknowledgements
 
-Alaaeddin M. AbuMettleq - 190041145, Sayed Ghazanfar Shah - 190041142.
+Alaaeddin M. AbuMettleq - 190041145, Sayed Ghazanfar Shah - 190041142, Mohammed Kamal - 190041143.
