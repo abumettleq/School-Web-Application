@@ -94,14 +94,14 @@ School-Web-Application
 ├── src
 │   ├── main
 │   │   ├── java
-│   │   │   └── com.schoolwebapp
+│   │   │   └── com.example.demo
 │   │   ├── resources
 │   │   └── webapp
 │   └── test
 
 
 │       └── java
-│           └── com.schoolwebapp
+│           └── com.example.demo
 ├── pom.xml
 └── README.md
 ```
